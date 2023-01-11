@@ -1,0 +1,12 @@
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: 123
+
+**Cashier Login Details**
+
+Email	: cashier@mail.com
+Password: 123
+
+
